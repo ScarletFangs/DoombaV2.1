@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#vex ignore files
+/.vscode
+/bin
+/build
+compile_commands.json
